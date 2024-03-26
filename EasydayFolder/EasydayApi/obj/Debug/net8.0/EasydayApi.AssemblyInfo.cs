@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasydayApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5b7a83fc0d63b740ec2d9b19a8efad0ed6a4111")]
 [assembly: System.Reflection.AssemblyProductAttribute("EasydayApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasydayApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

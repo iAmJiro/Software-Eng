@@ -8331,19 +8331,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jiro\\.nuget\\packages\\": {}
+    "C:\\Users\\steph\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jiro\\Documents\\GitHub\\Software-Eng\\EasydayFolder\\EasydayApi\\EasydayApi.csproj",
+      "projectUniqueName": "C:\\Users\\steph\\OneDrive\\Documents\\#School\\2024\\IT721 - Software Engineering\\Code\\Software-Eng\\EasydayFolder\\EasydayApi\\EasydayApi.csproj",
       "projectName": "EasydayApi",
-      "projectPath": "C:\\Users\\Jiro\\Documents\\GitHub\\Software-Eng\\EasydayFolder\\EasydayApi\\EasydayApi.csproj",
-      "packagesPath": "C:\\Users\\Jiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jiro\\Documents\\GitHub\\Software-Eng\\EasydayFolder\\EasydayApi\\obj\\",
+      "projectPath": "C:\\Users\\steph\\OneDrive\\Documents\\#School\\2024\\IT721 - Software Engineering\\Code\\Software-Eng\\EasydayFolder\\EasydayApi\\EasydayApi.csproj",
+      "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\steph\\OneDrive\\Documents\\#School\\2024\\IT721 - Software Engineering\\Code\\Software-Eng\\EasydayFolder\\EasydayApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8426,7 +8426,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
