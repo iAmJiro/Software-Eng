@@ -9,11 +9,15 @@ public class ApplicationDbContext : DbContext
     }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<
+
         modelBuilder.Entity<Account>()
-        .HasOne(a => a.Address)
-        .WithOne(i => i.Account)
-        .HasForeignKey<Address>(i => i.AddressID)
-        .IsRequired(false)
-        .OnDelete(DeleteBehavior.NoAction);
+            .HasOne(a => a.Address)
+            .WithOne(i => i.Account)
+            .HasForeignKey<Address>(i => i.AddressID)
+            .IsRequired(false)
+            .OnDelete(DeleteBehavior.NoAction);
+
+        
     }
 }
